@@ -1,4 +1,14 @@
-## Hi there 👋
+## ¡Hola 👾,  bienvenido a mi perfil!
+<!--Aqui iria un background y quien soy-->
+
+### **Acerca de mí**
+
+**Nombre:** Dayana Analy Pacheco Bañuelos
+
+**Ciudad:** Jalisco
+
+**Idioma:** Inglés & Español
+
 
 <!--
 **Dayaanaly/Dayaanaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
